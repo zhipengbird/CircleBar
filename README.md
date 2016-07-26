@@ -1,2 +1,2 @@
 # CircleBar
-a simple visible circleBar
+a simple visible  circle bar
